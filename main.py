@@ -164,7 +164,7 @@ import seaborn as sns
 # from sklearn.manifold import TSNE
 #
 # # Perform t-SNE for visualization with a random state for reproducibility
-# tsne = TSNE(n_components=2, random_state=0, learning_rate='auto', init='pca')
+# tsne = TSNE(n_components=2, random_state=0)
 #
 # # Apply t-SNE on the training set
 # X_train_tsne = tsne.fit_transform(X_train)
